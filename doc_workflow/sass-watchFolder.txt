@@ -1,0 +1,15 @@
+
+C:\Users\Jean\Documents\Fall 2016 Courses\Media Law\Final Project\legal-dev\bower_components\bootstrap>sass --watch scss:compiled
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+  directory compiled
+      write compiled/bootstrap-flex.css
+      write compiled/bootstrap-flex.css.map
+      write compiled/bootstrap-grid.css
+      write compiled/bootstrap-grid.css.map
+      write compiled/bootstrap-reboot.css
+      write compiled/bootstrap-reboot.css.map
+      write compiled/bootstrap.css
+      write compiled/bootstrap.css.map
+Terminate batch job (Y/N)? y
+
+C:\Users\Jean\Documents\Fall 2016 Courses\Media Law\Final Project\legal-dev\bower_components\bootstrap>
