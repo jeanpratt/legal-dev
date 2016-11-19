@@ -1,0 +1,1188 @@
+RIT/
+'Saved Games'/
+Searches/
+SendTo@
+'Start Menu'@
+Sti_Trace.log
+Templates@
+Videos/
+'Website graphics'/
+
+Jean@ShadowFax MINGW64 ~
+$ cd Documents/Fall 2016 Courses/Media Law/Final Project/legal-dev
+bash: cd: Documents/Fall: No such file or directory
+
+Jean@ShadowFax MINGW64 ~
+$ cd Documents/"Fall 2016 Courses"
+
+Jean@ShadowFax MINGW64 ~/Documents/Fall 2016 Courses
+$ cd "Media Law"/"Final Project"/legal-dev
+
+Jean@ShadowFax MINGW64 ~/Documents/Fall 2016 Courses/Media Law/Final Project/leg                            al-dev
+$ clear
+
+Jean@ShadowFax MINGW64 ~/Documents/Fall 2016 Courses/Media Law/Final Project/legal-dev
+$ git init
+Initialized empty Git repository in C:/Users/Jean/Documents/Fall 2016 Courses/Media Law/Final Project/legal-dev/.git/
+
+Jean@ShadowFax MINGW64 ~/Documents/Fall 2016 Courses/Media Law/Final Project/legal-dev (master)
+$ git add .
+warning: LF will be replaced by CRLF in bower_components/bootstrap/.bower.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/CHANGELOG.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/Gemfile.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/Gemfile.lock.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/Gruntfile.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/ISSUE_TEMPLATE.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/bower.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/css/bootstrap-flex.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/css/bootstrap-flex.min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/css/bootstrap-grid.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/css/bootstrap-grid.min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/css/bootstrap-reboot.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/css/bootstrap-reboot.min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/css/bootstrap.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/css/bootstrap.min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/js/bootstrap.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/dist/js/bootstrap.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/grunt/bs-sass-compile/libsass.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/grunt/bs-sass-compile/sass.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/grunt/change-version.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/grunt/configBridge.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/grunt/npm-shrinkwrap.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/grunt/postcss.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/grunt/sauce_browsers.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/grunt/upload-preview.sh.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/.babelrc.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/.eslintrc.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/.jscsrc.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/alert.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/button.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/carousel.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/collapse.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/dropdown.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/modal.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/popover.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/scrollspy.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/tab.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/tooltip.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/dist/util.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/alert.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/button.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/carousel.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/collapse.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/dropdown.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/modal.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/popover.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/scrollspy.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/tab.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/tooltip.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/js/src/util.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/nuget/MyGet.ps1.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/nuget/bootstrap.nuspec.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/nuget/bootstrap.sass.nuspec.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/package.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/sache.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/.scss-lint.yml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_alert.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_animation.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_breadcrumb.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_button-group.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_buttons.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_card.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_carousel.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_close.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_code.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_custom-forms.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_custom.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_dropdown.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_forms.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_grid.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_images.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_input-group.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_jumbotron.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_list-group.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_media.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_mixins.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_modal.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_nav.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_navbar.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_normalize.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_pagination.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_popover.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_print.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_progress.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_reboot.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_responsive-embed.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_tables.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_tags.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_tooltip.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_type.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_utilities.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/_variables.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/bootstrap-flex.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/bootstrap-grid.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/bootstrap-reboot.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/bootstrap.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_alert.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_background-variant.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_border-radius.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_breakpoints.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_buttons.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_cards.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_clearfix.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_float.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_forms.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_gradients.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_grid-framework.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_grid.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_hover.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_image.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_list-group.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_lists.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_nav-divider.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_navbar-align.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_pagination.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_progress.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_reset-filter.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_reset-text.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_resize.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_screen-reader.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_size.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_tab-focus.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_table-row.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_tag.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_text-emphasis.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_text-hide.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/mixins/_text-truncate.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_align.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_background.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_borders.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_clearfix.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_display.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_flex.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_float.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_screenreaders.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_spacing.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_text.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/bootstrap/scss/utilities/_visibility.scss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/.bower.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/AUTHORS.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/LICENSE.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/bower.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/dist/core.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/dist/jquery.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/dist/jquery.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/dist/jquery.slim.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/dist/jquery.slim.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/external/sizzle/LICENSE.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/external/sizzle/dist/sizzle.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/external/sizzle/dist/sizzle.min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/.eslintrc.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/ajax.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/ajax/jsonp.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/ajax/load.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/ajax/parseXML.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/ajax/script.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/ajax/var/location.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/ajax/var/nonce.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/ajax/var/rquery.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/ajax/xhr.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/attributes.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/attributes/attr.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/attributes/classes.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/attributes/prop.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/attributes/support.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/attributes/val.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/callbacks.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/DOMEval.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/access.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/init.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/parseHTML.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/ready-no-deferred.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/ready.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/readyException.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/stripAndCollapse.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/support.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/core/var/rsingleTag.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/addGetHookIf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/adjustCSS.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/curCSS.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/hiddenVisibleSelectors.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/showHide.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/support.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/var/cssExpand.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/var/getStyles.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/var/isHiddenWithinTree.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/var/rmargin.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/var/rnumnonpx.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/css/var/swap.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/data.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/data/Data.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/data/var/acceptData.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/data/var/dataPriv.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/data/var/dataUser.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/deferred.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/deferred/exceptionHook.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/deprecated.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/dimensions.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/effects.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/effects/Tween.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/effects/animatedSelector.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/event.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/event/ajax.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/event/alias.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/event/focusin.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/event/support.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/event/trigger.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/exports/amd.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/exports/global.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/jquery.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation/_evalUrl.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation/buildFragment.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation/getAll.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation/setGlobalEval.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation/support.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation/var/rcheckableType.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation/var/rscriptType.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation/var/rtagName.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/manipulation/wrapMap.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/offset.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/queue.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/queue/delay.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/selector-native.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/selector-sizzle.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/selector.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/serialize.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/traversing.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/traversing/findFilter.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/traversing/var/dir.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/traversing/var/rneedsContext.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/traversing/var/siblings.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/ObjectFunctionString.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/arr.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/class2type.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/concat.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/document.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/documentElement.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/fnToString.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/getProto.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/hasOwn.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/indexOf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/pnum.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/push.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/rcssNum.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/rnothtmlwhite.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/slice.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/support.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/var/toString.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/jquery/src/wrap.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/.bower.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/CHANGELOG.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/CONTRIBUTING.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/bower.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/component.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/dist/css/tether-theme-arrows-dark.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/dist/css/tether-theme-arrows.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/dist/css/tether-theme-basic.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/dist/css/tether.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/dist/js/tether.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/1-Overview/1-why_you_should_use_tether.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/1-Overview/2-repositioning.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/1-Overview/3-why_we_dont_support_IE_8.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/2-Examples/1-list_of_examples.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/2-Examples/2-projects_using_tether.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/3-Advanced/1-embedding_tether.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/3-Advanced/2-extending_tether.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/coffee/intro.coffee.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/css/intro.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/intro.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/js/intro.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/js/markAttachment.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/sass/intro.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/browser-demo.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/coffee/welcome.coffee.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/css/browser-demo.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/css/prism.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/css/welcome.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/js/drop.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/js/jquery.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/js/log.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/js/tether-v0.1.3.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/js/welcome.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/sass/_inline-block.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/sass/browser-demo.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/docs/welcome/sass/welcome.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/chosen/chosen.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/chosen/chosen.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/chosen/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/common/css/style.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/content-visible/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/dolls/dolls.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/dolls/dolls.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/dolls/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/element-scroll/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/enable-disable/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/facebook/facebook.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/facebook/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/out-of-bounds/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/pin/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/resources/css/base.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/resources/js/jquery.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/resources/js/log.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/scroll/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/simple/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/testbed/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/tooltip/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/viewport/colors.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/examples/viewport/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/gulpfile.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/css/helpers/_tether-theme-arrows.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/css/helpers/_tether-theme-basic.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/css/helpers/_tether.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/css/mixins/_inline-block.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/css/mixins/_pie-clearfix.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/css/tether-theme-arrows-dark.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/css/tether-theme-arrows.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/css/tether-theme-basic.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/css/tether.sass.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/js/abutment.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/js/constraint.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/js/markAttachment.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/js/shift.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/js/tether.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in bower_components/tether/src/js/utils.js.
+The file will have its original line endings in your working directory.
+
+Jean@ShadowFax MINGW64 ~/Documents/Fall 2016 Courses/Media Law/Final Project/legal-dev (master)
+$ git commit -m "Initial commit"
+[master (root-commit) 2a9353d] Initial commit
+ 473 files changed, 126029 insertions(+)
+ create mode 100644 bower_components/bootstrap/.bower.json
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_align.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_background.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_borders.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_clearfix.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_display.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_flex.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_float.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_screenreaders.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_spacing.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_text.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/54b144dbe5a06aa2688276e9f6e804727e8f2300/_visibility.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_alert.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_background-variant.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_border-radius.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_breakpoints.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_buttons.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_cards.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_clearfix.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_float.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_forms.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_gradients.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_grid-framework.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_grid.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_hover.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_image.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_list-group.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_lists.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_nav-divider.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_pagination.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_progress.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_reset-filter.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_reset-text.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_resize.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_screen-reader.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_size.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_tab-focus.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_table-row.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_tag.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_text-emphasis.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_text-hide.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/b2f1ca4bb7604fdfabdda7eeef782fb957c2b1bb/_text-truncate.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_alert.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_animation.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_breadcrumb.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_button-group.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_buttons.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_card.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_carousel.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_close.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_code.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_custom-forms.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_custom.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_dropdown.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_forms.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_grid.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_images.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_input-group.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_jumbotron.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_list-group.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_media.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_mixins.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_modal.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_nav.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_navbar.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_normalize.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_pagination.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_popover.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_print.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_progress.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_reboot.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_responsive-embed.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_tables.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_tags.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_tooltip.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_type.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_utilities.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_variables.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/bootstrap-flex.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/bootstrap-grid.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/bootstrap-reboot.scssc
+ create mode 100644 bower_components/bootstrap/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/bootstrap.scssc
+ create mode 100644 bower_components/bootstrap/CHANGELOG.md
+ create mode 100644 bower_components/bootstrap/Gemfile
+ create mode 100644 bower_components/bootstrap/Gemfile.lock
+ create mode 100644 bower_components/bootstrap/Gruntfile.js
+ create mode 100644 bower_components/bootstrap/ISSUE_TEMPLATE.md
+ create mode 100644 bower_components/bootstrap/LICENSE
+ create mode 100644 bower_components/bootstrap/README.md
+ create mode 100644 bower_components/bootstrap/bower.json
+ create mode 100644 bower_components/bootstrap/compiled/bootstrap-flex.css
+ create mode 100644 bower_components/bootstrap/compiled/bootstrap-flex.css.map
+ create mode 100644 bower_components/bootstrap/compiled/bootstrap-grid.css
+ create mode 100644 bower_components/bootstrap/compiled/bootstrap-grid.css.map
+ create mode 100644 bower_components/bootstrap/compiled/bootstrap-reboot.css
+ create mode 100644 bower_components/bootstrap/compiled/bootstrap-reboot.css.map
+ create mode 100644 bower_components/bootstrap/compiled/bootstrap.css
+ create mode 100644 bower_components/bootstrap/compiled/bootstrap.css.map
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-flex.css
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-flex.css.map
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-flex.min.css
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-flex.min.css.map
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-grid.css
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-grid.css.map
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-grid.min.css
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-grid.min.css.map
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-reboot.css
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-reboot.css.map
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-reboot.min.css
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap-reboot.min.css.map
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap.css
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap.css.map
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap.min.css
+ create mode 100644 bower_components/bootstrap/dist/css/bootstrap.min.css.map
+ create mode 100644 bower_components/bootstrap/dist/js/bootstrap.js
+ create mode 100644 bower_components/bootstrap/dist/js/bootstrap.min.js
+ create mode 100644 bower_components/bootstrap/grunt/bs-sass-compile/libsass.js
+ create mode 100644 bower_components/bootstrap/grunt/bs-sass-compile/sass.js
+ create mode 100644 bower_components/bootstrap/grunt/change-version.js
+ create mode 100644 bower_components/bootstrap/grunt/configBridge.json
+ create mode 100644 bower_components/bootstrap/grunt/gcp-key.json.enc
+ create mode 100644 bower_components/bootstrap/grunt/npm-shrinkwrap.json
+ create mode 100644 bower_components/bootstrap/grunt/postcss.js
+ create mode 100644 bower_components/bootstrap/grunt/sauce_browsers.yml
+ create mode 100644 bower_components/bootstrap/grunt/upload-preview.sh
+ create mode 100644 bower_components/bootstrap/js/.babelrc
+ create mode 100644 bower_components/bootstrap/js/.eslintrc.json
+ create mode 100644 bower_components/bootstrap/js/.jscsrc
+ create mode 100644 bower_components/bootstrap/js/dist/alert.js
+ create mode 100644 bower_components/bootstrap/js/dist/alert.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/button.js
+ create mode 100644 bower_components/bootstrap/js/dist/button.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/carousel.js
+ create mode 100644 bower_components/bootstrap/js/dist/carousel.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/collapse.js
+ create mode 100644 bower_components/bootstrap/js/dist/collapse.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/dropdown.js
+ create mode 100644 bower_components/bootstrap/js/dist/dropdown.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/modal.js
+ create mode 100644 bower_components/bootstrap/js/dist/modal.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/popover.js
+ create mode 100644 bower_components/bootstrap/js/dist/popover.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/scrollspy.js
+ create mode 100644 bower_components/bootstrap/js/dist/scrollspy.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/tab.js
+ create mode 100644 bower_components/bootstrap/js/dist/tab.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/tooltip.js
+ create mode 100644 bower_components/bootstrap/js/dist/tooltip.js.map
+ create mode 100644 bower_components/bootstrap/js/dist/util.js
+ create mode 100644 bower_components/bootstrap/js/dist/util.js.map
+ create mode 100644 bower_components/bootstrap/js/src/alert.js
+ create mode 100644 bower_components/bootstrap/js/src/button.js
+ create mode 100644 bower_components/bootstrap/js/src/carousel.js
+ create mode 100644 bower_components/bootstrap/js/src/collapse.js
+ create mode 100644 bower_components/bootstrap/js/src/dropdown.js
+ create mode 100644 bower_components/bootstrap/js/src/modal.js
+ create mode 100644 bower_components/bootstrap/js/src/popover.js
+ create mode 100644 bower_components/bootstrap/js/src/scrollspy.js
+ create mode 100644 bower_components/bootstrap/js/src/tab.js
+ create mode 100644 bower_components/bootstrap/js/src/tooltip.js
+ create mode 100644 bower_components/bootstrap/js/src/util.js
+ create mode 100644 bower_components/bootstrap/nuget/MyGet.ps1
+ create mode 100644 bower_components/bootstrap/nuget/bootstrap.nuspec
+ create mode 100644 bower_components/bootstrap/nuget/bootstrap.sass.nuspec
+ create mode 100644 bower_components/bootstrap/package.js
+ create mode 100644 bower_components/bootstrap/package.json
+ create mode 100644 bower_components/bootstrap/sache.json
+ create mode 100644 bower_components/bootstrap/scss/.scss-lint.yml
+ create mode 100644 bower_components/bootstrap/scss/_alert.scss
+ create mode 100644 bower_components/bootstrap/scss/_animation.scss
+ create mode 100644 bower_components/bootstrap/scss/_breadcrumb.scss
+ create mode 100644 bower_components/bootstrap/scss/_button-group.scss
+ create mode 100644 bower_components/bootstrap/scss/_buttons.scss
+ create mode 100644 bower_components/bootstrap/scss/_card.scss
+ create mode 100644 bower_components/bootstrap/scss/_carousel.scss
+ create mode 100644 bower_components/bootstrap/scss/_close.scss
+ create mode 100644 bower_components/bootstrap/scss/_code.scss
+ create mode 100644 bower_components/bootstrap/scss/_custom-forms.scss
+ create mode 100644 bower_components/bootstrap/scss/_custom.scss
+ create mode 100644 bower_components/bootstrap/scss/_dropdown.scss
+ create mode 100644 bower_components/bootstrap/scss/_forms.scss
+ create mode 100644 bower_components/bootstrap/scss/_grid.scss
+ create mode 100644 bower_components/bootstrap/scss/_images.scss
+ create mode 100644 bower_components/bootstrap/scss/_input-group.scss
+ create mode 100644 bower_components/bootstrap/scss/_jumbotron.scss
+ create mode 100644 bower_components/bootstrap/scss/_list-group.scss
+ create mode 100644 bower_components/bootstrap/scss/_media.scss
+ create mode 100644 bower_components/bootstrap/scss/_mixins.scss
+ create mode 100644 bower_components/bootstrap/scss/_modal.scss
+ create mode 100644 bower_components/bootstrap/scss/_nav.scss
+ create mode 100644 bower_components/bootstrap/scss/_navbar.scss
+ create mode 100644 bower_components/bootstrap/scss/_normalize.scss
+ create mode 100644 bower_components/bootstrap/scss/_pagination.scss
+ create mode 100644 bower_components/bootstrap/scss/_popover.scss
+ create mode 100644 bower_components/bootstrap/scss/_print.scss
+ create mode 100644 bower_components/bootstrap/scss/_progress.scss
+ create mode 100644 bower_components/bootstrap/scss/_reboot.scss
+ create mode 100644 bower_components/bootstrap/scss/_responsive-embed.scss
+ create mode 100644 bower_components/bootstrap/scss/_tables.scss
+ create mode 100644 bower_components/bootstrap/scss/_tags.scss
+ create mode 100644 bower_components/bootstrap/scss/_tooltip.scss
+ create mode 100644 bower_components/bootstrap/scss/_type.scss
+ create mode 100644 bower_components/bootstrap/scss/_utilities.scss
+ create mode 100644 bower_components/bootstrap/scss/_variables.scss
+ create mode 100644 bower_components/bootstrap/scss/bootstrap-flex.css
+ create mode 100644 bower_components/bootstrap/scss/bootstrap-flex.css.map
+ create mode 100644 bower_components/bootstrap/scss/bootstrap-flex.scss
+ create mode 100644 bower_components/bootstrap/scss/bootstrap-grid.css
+ create mode 100644 bower_components/bootstrap/scss/bootstrap-grid.css.map
+ create mode 100644 bower_components/bootstrap/scss/bootstrap-grid.scss
+ create mode 100644 bower_components/bootstrap/scss/bootstrap-reboot.css
+ create mode 100644 bower_components/bootstrap/scss/bootstrap-reboot.css.map
+ create mode 100644 bower_components/bootstrap/scss/bootstrap-reboot.scss
+ create mode 100644 bower_components/bootstrap/scss/bootstrap.css
+ create mode 100644 bower_components/bootstrap/scss/bootstrap.css.map
+ create mode 100644 bower_components/bootstrap/scss/bootstrap.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_alert.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_background-variant.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_border-radius.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_breakpoints.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_buttons.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_cards.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_clearfix.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_float.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_forms.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_gradients.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_grid-framework.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_grid.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_hover.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_image.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_list-group.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_lists.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_nav-divider.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_navbar-align.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_pagination.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_progress.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_reset-filter.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_reset-text.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_resize.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_screen-reader.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_size.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_tab-focus.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_table-row.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_tag.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_text-emphasis.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_text-hide.scss
+ create mode 100644 bower_components/bootstrap/scss/mixins/_text-truncate.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_align.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_background.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_borders.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_clearfix.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_display.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_flex.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_float.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_screenreaders.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_spacing.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_text.scss
+ create mode 100644 bower_components/bootstrap/scss/utilities/_visibility.scss
+ create mode 100644 bower_components/jquery/.bower.json
+ create mode 100644 bower_components/jquery/AUTHORS.txt
+ create mode 100644 bower_components/jquery/LICENSE.txt
+ create mode 100644 bower_components/jquery/README.md
+ create mode 100644 bower_components/jquery/bower.json
+ create mode 100644 bower_components/jquery/dist/core.js
+ create mode 100644 bower_components/jquery/dist/jquery.js
+ create mode 100644 bower_components/jquery/dist/jquery.min.js
+ create mode 100644 bower_components/jquery/dist/jquery.min.map
+ create mode 100644 bower_components/jquery/dist/jquery.slim.js
+ create mode 100644 bower_components/jquery/dist/jquery.slim.min.js
+ create mode 100644 bower_components/jquery/dist/jquery.slim.min.map
+ create mode 100644 bower_components/jquery/external/sizzle/LICENSE.txt
+ create mode 100644 bower_components/jquery/external/sizzle/dist/sizzle.js
+ create mode 100644 bower_components/jquery/external/sizzle/dist/sizzle.min.js
+ create mode 100644 bower_components/jquery/external/sizzle/dist/sizzle.min.map
+ create mode 100644 bower_components/jquery/src/.eslintrc.json
+ create mode 100644 bower_components/jquery/src/ajax.js
+ create mode 100644 bower_components/jquery/src/ajax/jsonp.js
+ create mode 100644 bower_components/jquery/src/ajax/load.js
+ create mode 100644 bower_components/jquery/src/ajax/parseXML.js
+ create mode 100644 bower_components/jquery/src/ajax/script.js
+ create mode 100644 bower_components/jquery/src/ajax/var/location.js
+ create mode 100644 bower_components/jquery/src/ajax/var/nonce.js
+ create mode 100644 bower_components/jquery/src/ajax/var/rquery.js
+ create mode 100644 bower_components/jquery/src/ajax/xhr.js
+ create mode 100644 bower_components/jquery/src/attributes.js
+ create mode 100644 bower_components/jquery/src/attributes/attr.js
+ create mode 100644 bower_components/jquery/src/attributes/classes.js
+ create mode 100644 bower_components/jquery/src/attributes/prop.js
+ create mode 100644 bower_components/jquery/src/attributes/support.js
+ create mode 100644 bower_components/jquery/src/attributes/val.js
+ create mode 100644 bower_components/jquery/src/callbacks.js
+ create mode 100644 bower_components/jquery/src/core.js
+ create mode 100644 bower_components/jquery/src/core/DOMEval.js
+ create mode 100644 bower_components/jquery/src/core/access.js
+ create mode 100644 bower_components/jquery/src/core/init.js
+ create mode 100644 bower_components/jquery/src/core/parseHTML.js
+ create mode 100644 bower_components/jquery/src/core/ready-no-deferred.js
+ create mode 100644 bower_components/jquery/src/core/ready.js
+ create mode 100644 bower_components/jquery/src/core/readyException.js
+ create mode 100644 bower_components/jquery/src/core/stripAndCollapse.js
+ create mode 100644 bower_components/jquery/src/core/support.js
+ create mode 100644 bower_components/jquery/src/core/var/rsingleTag.js
+ create mode 100644 bower_components/jquery/src/css.js
+ create mode 100644 bower_components/jquery/src/css/addGetHookIf.js
+ create mode 100644 bower_components/jquery/src/css/adjustCSS.js
+ create mode 100644 bower_components/jquery/src/css/curCSS.js
+ create mode 100644 bower_components/jquery/src/css/hiddenVisibleSelectors.js
+ create mode 100644 bower_components/jquery/src/css/showHide.js
+ create mode 100644 bower_components/jquery/src/css/support.js
+ create mode 100644 bower_components/jquery/src/css/var/cssExpand.js
+ create mode 100644 bower_components/jquery/src/css/var/getStyles.js
+ create mode 100644 bower_components/jquery/src/css/var/isHiddenWithinTree.js
+ create mode 100644 bower_components/jquery/src/css/var/rmargin.js
+ create mode 100644 bower_components/jquery/src/css/var/rnumnonpx.js
+ create mode 100644 bower_components/jquery/src/css/var/swap.js
+ create mode 100644 bower_components/jquery/src/data.js
+ create mode 100644 bower_components/jquery/src/data/Data.js
+ create mode 100644 bower_components/jquery/src/data/var/acceptData.js
+ create mode 100644 bower_components/jquery/src/data/var/dataPriv.js
+ create mode 100644 bower_components/jquery/src/data/var/dataUser.js
+ create mode 100644 bower_components/jquery/src/deferred.js
+ create mode 100644 bower_components/jquery/src/deferred/exceptionHook.js
+ create mode 100644 bower_components/jquery/src/deprecated.js
+ create mode 100644 bower_components/jquery/src/dimensions.js
+ create mode 100644 bower_components/jquery/src/effects.js
+ create mode 100644 bower_components/jquery/src/effects/Tween.js
+ create mode 100644 bower_components/jquery/src/effects/animatedSelector.js
+ create mode 100644 bower_components/jquery/src/event.js
+ create mode 100644 bower_components/jquery/src/event/ajax.js
+ create mode 100644 bower_components/jquery/src/event/alias.js
+ create mode 100644 bower_components/jquery/src/event/focusin.js
+ create mode 100644 bower_components/jquery/src/event/support.js
+ create mode 100644 bower_components/jquery/src/event/trigger.js
+ create mode 100644 bower_components/jquery/src/exports/amd.js
+ create mode 100644 bower_components/jquery/src/exports/global.js
+ create mode 100644 bower_components/jquery/src/jquery.js
+ create mode 100644 bower_components/jquery/src/manipulation.js
+ create mode 100644 bower_components/jquery/src/manipulation/_evalUrl.js
+ create mode 100644 bower_components/jquery/src/manipulation/buildFragment.js
+ create mode 100644 bower_components/jquery/src/manipulation/getAll.js
+ create mode 100644 bower_components/jquery/src/manipulation/setGlobalEval.js
+ create mode 100644 bower_components/jquery/src/manipulation/support.js
+ create mode 100644 bower_components/jquery/src/manipulation/var/rcheckableType.js
+ create mode 100644 bower_components/jquery/src/manipulation/var/rscriptType.js
+ create mode 100644 bower_components/jquery/src/manipulation/var/rtagName.js
+ create mode 100644 bower_components/jquery/src/manipulation/wrapMap.js
+ create mode 100644 bower_components/jquery/src/offset.js
+ create mode 100644 bower_components/jquery/src/queue.js
+ create mode 100644 bower_components/jquery/src/queue/delay.js
+ create mode 100644 bower_components/jquery/src/selector-native.js
+ create mode 100644 bower_components/jquery/src/selector-sizzle.js
+ create mode 100644 bower_components/jquery/src/selector.js
+ create mode 100644 bower_components/jquery/src/serialize.js
+ create mode 100644 bower_components/jquery/src/traversing.js
+ create mode 100644 bower_components/jquery/src/traversing/findFilter.js
+ create mode 100644 bower_components/jquery/src/traversing/var/dir.js
+ create mode 100644 bower_components/jquery/src/traversing/var/rneedsContext.js
+ create mode 100644 bower_components/jquery/src/traversing/var/siblings.js
+ create mode 100644 bower_components/jquery/src/var/ObjectFunctionString.js
+ create mode 100644 bower_components/jquery/src/var/arr.js
+ create mode 100644 bower_components/jquery/src/var/class2type.js
+ create mode 100644 bower_components/jquery/src/var/concat.js
+ create mode 100644 bower_components/jquery/src/var/document.js
+ create mode 100644 bower_components/jquery/src/var/documentElement.js
+ create mode 100644 bower_components/jquery/src/var/fnToString.js
+ create mode 100644 bower_components/jquery/src/var/getProto.js
+ create mode 100644 bower_components/jquery/src/var/hasOwn.js
+ create mode 100644 bower_components/jquery/src/var/indexOf.js
+ create mode 100644 bower_components/jquery/src/var/pnum.js
+ create mode 100644 bower_components/jquery/src/var/push.js
+ create mode 100644 bower_components/jquery/src/var/rcssNum.js
+ create mode 100644 bower_components/jquery/src/var/rnothtmlwhite.js
+ create mode 100644 bower_components/jquery/src/var/slice.js
+ create mode 100644 bower_components/jquery/src/var/support.js
+ create mode 100644 bower_components/jquery/src/var/toString.js
+ create mode 100644 bower_components/jquery/src/wrap.js
+ create mode 100644 bower_components/tether/.bower.json
+ create mode 100644 bower_components/tether/CHANGELOG.md
+ create mode 100644 bower_components/tether/CONTRIBUTING.md
+ create mode 100644 bower_components/tether/LICENSE
+ create mode 100644 bower_components/tether/README.md
+ create mode 100644 bower_components/tether/bower.json
+ create mode 100644 bower_components/tether/component.json
+ create mode 100644 bower_components/tether/dist/css/tether-theme-arrows-dark.css
+ create mode 100644 bower_components/tether/dist/css/tether-theme-arrows-dark.min.css
+ create mode 100644 bower_components/tether/dist/css/tether-theme-arrows.css
+ create mode 100644 bower_components/tether/dist/css/tether-theme-arrows.min.css
+ create mode 100644 bower_components/tether/dist/css/tether-theme-basic.css
+ create mode 100644 bower_components/tether/dist/css/tether-theme-basic.min.css
+ create mode 100644 bower_components/tether/dist/css/tether.css
+ create mode 100644 bower_components/tether/dist/css/tether.min.css
+ create mode 100644 bower_components/tether/dist/js/tether.js
+ create mode 100644 bower_components/tether/dist/js/tether.min.js
+ create mode 100644 bower_components/tether/docs/1-Overview/1-why_you_should_use_tether.md
+ create mode 100644 bower_components/tether/docs/1-Overview/2-repositioning.md
+ create mode 100644 bower_components/tether/docs/1-Overview/3-why_we_dont_support_IE_8.md
+ create mode 100644 bower_components/tether/docs/2-Examples/1-list_of_examples.md
+ create mode 100644 bower_components/tether/docs/2-Examples/2-projects_using_tether.md
+ create mode 100644 bower_components/tether/docs/3-Advanced/1-embedding_tether.md
+ create mode 100644 bower_components/tether/docs/3-Advanced/2-extending_tether.md
+ create mode 100644 bower_components/tether/docs/coffee/intro.coffee
+ create mode 100644 bower_components/tether/docs/css/intro.css
+ create mode 100644 bower_components/tether/docs/intro.md
+ create mode 100644 bower_components/tether/docs/js/intro.js
+ create mode 100644 bower_components/tether/docs/js/markAttachment.js
+ create mode 100644 bower_components/tether/docs/sass/intro.sass
+ create mode 100644 bower_components/tether/docs/welcome/browser-demo.html
+ create mode 100644 bower_components/tether/docs/welcome/coffee/welcome.coffee
+ create mode 100644 bower_components/tether/docs/welcome/css/browser-demo.css
+ create mode 100644 bower_components/tether/docs/welcome/css/prism.css
+ create mode 100644 bower_components/tether/docs/welcome/css/welcome.css
+ create mode 100644 bower_components/tether/docs/welcome/index.html
+ create mode 100644 bower_components/tether/docs/welcome/js/drop.js
+ create mode 100644 bower_components/tether/docs/welcome/js/jquery.js
+ create mode 100644 bower_components/tether/docs/welcome/js/log.js
+ create mode 100644 bower_components/tether/docs/welcome/js/tether-v0.1.3.js
+ create mode 100644 bower_components/tether/docs/welcome/js/welcome.js
+ create mode 100644 bower_components/tether/docs/welcome/sass/_inline-block.sass
+ create mode 100644 bower_components/tether/docs/welcome/sass/browser-demo.sass
+ create mode 100644 bower_components/tether/docs/welcome/sass/welcome.sass
+ create mode 100644 bower_components/tether/examples/chosen/chosen-sprite.png
+ create mode 100644 bower_components/tether/examples/chosen/chosen-sprite@2x.png
+ create mode 100644 bower_components/tether/examples/chosen/chosen.css
+ create mode 100644 bower_components/tether/examples/chosen/chosen.js
+ create mode 100644 bower_components/tether/examples/chosen/index.html
+ create mode 100644 bower_components/tether/examples/common/css/style.css
+ create mode 100644 bower_components/tether/examples/content-visible/index.html
+ create mode 100644 bower_components/tether/examples/dolls/dolls.css
+ create mode 100644 bower_components/tether/examples/dolls/dolls.js
+ create mode 100644 bower_components/tether/examples/dolls/index.html
+ create mode 100644 bower_components/tether/examples/element-scroll/index.html
+ create mode 100644 bower_components/tether/examples/enable-disable/index.html
+ create mode 100644 bower_components/tether/examples/facebook/facebook.css
+ create mode 100644 bower_components/tether/examples/facebook/index.html
+ create mode 100644 bower_components/tether/examples/out-of-bounds/index.html
+ create mode 100644 bower_components/tether/examples/pin/index.html
+ create mode 100644 bower_components/tether/examples/resources/css/base.css
+ create mode 100644 bower_components/tether/examples/resources/js/jquery.js
+ create mode 100644 bower_components/tether/examples/resources/js/log.js
+ create mode 100644 bower_components/tether/examples/scroll/index.html
+ create mode 100644 bower_components/tether/examples/simple/index.html
+ create mode 100644 bower_components/tether/examples/testbed/index.html
+ create mode 100644 bower_components/tether/examples/tooltip/index.html
+ create mode 100644 bower_components/tether/examples/viewport/colors.css
+ create mode 100644 bower_components/tether/examples/viewport/index.html
+ create mode 100644 bower_components/tether/gulpfile.js
+ create mode 100644 bower_components/tether/package.json
+ create mode 100644 bower_components/tether/src/css/helpers/_tether-theme-arrows.sass
+ create mode 100644 bower_components/tether/src/css/helpers/_tether-theme-basic.sass
+ create mode 100644 bower_components/tether/src/css/helpers/_tether.sass
+ create mode 100644 bower_components/tether/src/css/mixins/_inline-block.sass
+ create mode 100644 bower_components/tether/src/css/mixins/_pie-clearfix.sass
+ create mode 100644 bower_components/tether/src/css/tether-theme-arrows-dark.sass
+ create mode 100644 bower_components/tether/src/css/tether-theme-arrows.sass
+ create mode 100644 bower_components/tether/src/css/tether-theme-basic.sass
+ create mode 100644 bower_components/tether/src/css/tether.sass
+ create mode 100644 bower_components/tether/src/js/abutment.js
+ create mode 100644 bower_components/tether/src/js/constraint.js
+ create mode 100644 bower_components/tether/src/js/markAttachment.js
+ create mode 100644 bower_components/tether/src/js/shift.js
+ create mode 100644 bower_components/tether/src/js/tether.js
+ create mode 100644 bower_components/tether/src/js/utils.js
+ create mode 100644 doc_workflow/sass-watchFolder.txt
+ create mode 100644 index.html
+ create mode 100644 scripts/jquery.easing.1.3.js
+ create mode 100644 styles/.sass-cache/3b79ca41025dd2a814f4fdbd1b8b699188d10e55/_base.scssc
+ create mode 100644 styles/.sass-cache/3b79ca41025dd2a814f4fdbd1b8b699188d10e55/app.scssc
+ create mode 100644 styles/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_custom.scssc
+ create mode 100644 styles/.sass-cache/bce78ffcf569dec030d50cd673e000d6ea8ec407/_variables.scssc
+ create mode 100644 styles/css/app.css
+ create mode 100644 styles/css/app.css.map
+ create mode 100644 styles/sass/_base.scss
+ create mode 100644 styles/sass/app.scss
+
+Jean@ShadowFax MINGW64 ~/Documents/Fall 2016 Courses/Media Law/Final Project/legal-dev (master)
+$ git log
+commit 2a9353d4bb2fa1e4271558b4e828777b5a51cd1b
+Author: Jean Pratt <jean.dorothy.pratt@gmail.com>
+Date:   Sat Nov 19 18:15:19 2016 -0500
+
+    Initial commit
+
+Jean@ShadowFax MINGW64 ~/Documents/Fall 2016 Courses/Media Law/Final Project/legal-dev (master)
+$
