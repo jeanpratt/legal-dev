@@ -8,7 +8,7 @@ div.btn-group {
 	width: 100%;
 }
 
-div.btn-group button.btn.col-xs-3 {
+div.btn-group button.btn {
 	border-radius: 0;
 	color: white;
 	outline: 0;
@@ -22,7 +22,7 @@ div.btn-group button.btn:nth-of-type(2) {
 	background: $base_orange;
 }
 
-div.btn-group button:last-of-type {
+div.btn-group button.btn:last-of-type {
 	background: $base_yellow;
 }
 

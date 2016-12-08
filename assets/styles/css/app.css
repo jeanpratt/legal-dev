@@ -3073,6 +3073,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 body {
   margin: 0; }
 
+/*
+# Positioning mixins */
+/*
+# Link/button :hover mixins */
 /***************
 #
 # Colors
@@ -3133,22 +3137,22 @@ h2:after {
 div.btn-group {
   width: 100%; }
 
-div.btn-group button.btn.col-xs-3 {
+div.btn-group button.btn {
   border-radius: 0;
   color: white;
   outline: 0; }
 
-div.btn-group button.btn.col-xs-3:first-of-type {
+div.btn-group button:first-of-type {
   background: #d16679; }
 
-div.btn-group button.btn.col-xs-3:nth-of-type(2) {
+div.btn-group button.btn:nth-of-type(2) {
   background: #e29067; }
+
+div.btn-group button.btn:last-of-type {
+  background: #eeae32; }
 
 div.btn-group button.btn.col-xs-3:nth-of-type(3) {
   background: #e69847; }
-
-div.btn-group button.btn.col-xs-3:last-of-type {
-  background: #eeae32; }
 
 /********************************
 
@@ -3158,7 +3162,18 @@ div.btn-group button.btn.col-xs-3:last-of-type {
 header#landing {
   background-color: #262626;
   height: 85vh;
+  max-width: 100%;
+  margin-bottom: 3rem;
   position: relative; }
+
+header#landing:after {
+  border: 30px solid transparent;
+  border-top-color: #262626;
+  content: "";
+  left: 50%;
+  margin-left: -30px;
+  position: absolute;
+  top: 100%; }
 
 header#landing div.container {
   padding: 1.5rem;
@@ -3168,5 +3183,39 @@ header#landing div.container {
   left: -50%;
   right: -50%;
   text-align: center; }
+
+header#landing div.container div.row div.col-md-4 {
+  max-width: 100%;
+  margin-bottom: 1rem;
+  overflow: auto; }
+
+header#landing div.container div.row div.col-md-4 a {
+  border-radius: 0;
+  color: white;
+  display: block;
+  font-family: "Raleway", Tahoma, Geneva, sans-serif;
+  text-transform: uppercase;
+  width: 100%; }
+
+header#landing div.container div.row div.col-md-4:first-of-type a {
+  background: #eeae32; }
+
+header#landing div.container div.row div.col-md-4:nth-of-type(2) a {
+  background: #e29067; }
+
+header#landing div.container div.row div.col-md-4:last-of-type a {
+  background: #d16679; }
+
+header#landing div.container div.row div.col-md-4:first-of-type a:hover {
+  background-color: #f2c161;
+  transition: all 0.3s; }
+
+header#landing div.container div.row div.col-md-4:nth-of-type(2) a:hover {
+  background-color: #eaaf92;
+  transition: all 0.3s; }
+
+header#landing div.container div.row div.col-md-4:last-of-type a:hover {
+  background-color: #dd8d9b;
+  transition: all 0.3s; }
 
 /*# sourceMappingURL=app.css.map */

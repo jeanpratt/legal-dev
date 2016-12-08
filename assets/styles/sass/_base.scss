@@ -15,6 +15,9 @@
 
 body { margin: 0; }
 
+/*
+# Positioning mixins */
+
 @mixin v_center() {
 	top: 50%;
 	transform: translateY(-50%);
@@ -30,6 +33,15 @@ body { margin: 0; }
 	@include v_center();
 	@include h_center();
 }
+
+/*
+# Link/button :hover mixins */
+
+@mixin lighter($base_color) {
+	background-color: lighten( $base_color, 10% );
+	transition: all 0.3s;
+}
+
 
 /***************
 #
