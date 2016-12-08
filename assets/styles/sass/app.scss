@@ -20,7 +20,7 @@
 # then load file that overwrites them */
 
 @import "../../bower_components/bootstrap/scss/variables";
-@import "../../bower_components/bootstrap/scss/custom";
+@import "custom";
 
 
 /***************
@@ -110,5 +110,6 @@
 #
 ***************/
 
-@import "cover";
 @import "base";
+@import "buttons";
+@import "cover";

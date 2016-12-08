@@ -1,0 +1,77 @@
+/********************************
+
+# Base Theme Settings
+
+# Create new variables to supplement those created 
+# by Bootstrap. 
+
+*******************************/
+
+/***************
+#
+# General & Utilities
+#
+****************/
+
+body { margin: 0; }
+
+@mixin v_center() {
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+@mixin h_center() {
+	left: -50%;
+	right: -50%;
+}
+
+@mixin perfect_center() {
+	position: absolute;
+	@include v_center();
+	@include h_center();
+}
+
+/***************
+#
+# Colors
+#
+****************
+
+# Base color variables to be used in website */
+
+$base_white: 		$body-bg;
+$base_red:			#d16679;
+$base_orange:		#e29067;
+$base_peach:		#e69847;
+$base_yellow:		#eeae32;
+
+/***************
+#
+# Typography
+#
+****************/
+
+h1, h2, h3 { font-family: 'Lobster', cursive; }
+
+h1, h2, h1 span, h2 span {
+	background-clip: text !important;
+	-webkit-background-clip: text !important;
+	-webkit-text-fill-color: transparent;
+}
+
+h1 { padding: .5rem 0; }
+h1 span { @include gradient-x($start-color: $base_yellow, $end-color: $base_red, $start-percent: 0%, $end-percent: 100%); }
+h2 { position: relative; }
+h2 span { @include gradient-x($start-color: $base_red, $end-color: $base_yellow, $start-percent: 0%, $end-percent: 100%); }
+h3 { color: $gray; }
+h4 { color: $gray; font-family: $font-family-sans-serif; }
+
+h2:after {
+	background: $gray-light;
+	border-left: 20px solid $base_white;
+	content: " ";
+	display:block;
+	height: 2px;
+	position: absolute;
+	width: 100%;
+}

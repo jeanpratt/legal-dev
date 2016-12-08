@@ -1,0 +1,31 @@
+/********************************
+
+# Theme Buttons
+
+*******************************/
+
+div.btn-group {
+	width: 100%;
+}
+
+div.btn-group button.btn.col-xs-3 {
+	border-radius: 0;
+	color: white;
+	outline: 0;
+}
+
+div.btn-group button.btn.col-xs-3:first-of-type {
+	background: $base_red;
+}
+	
+div.btn-group button.btn.col-xs-3:nth-of-type(2) {
+	background: $base_orange;
+}
+
+div.btn-group button.btn.col-xs-3:nth-of-type(3) {
+	background: $base_peach;
+}
+
+div.btn-group button.btn.col-xs-3:last-of-type {
+	background: $base_yellow;
+}

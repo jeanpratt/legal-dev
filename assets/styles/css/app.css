@@ -218,7 +218,7 @@
   cursor: pointer;
   user-select: none;
   border: 1px solid transparent;
-  padding: 0.5rem 1rem;
+  padding: 2.5rem 1rem;
   font-size: 1rem;
   border-radius: 0.25rem; }
   .btn:focus, .btn.focus, .btn:active:focus, .btn:active.focus, .btn.active:focus, .btn.active.focus {
@@ -1515,7 +1515,7 @@ input[type="button"].btn-block {
 
 .figure-caption {
   font-size: 90%;
-  color: #818a91; }
+  color: #cfcfcf; }
 
 .nav {
   padding-left: 0;
@@ -1894,16 +1894,16 @@ html {
 @-ms-viewport {
   width: device-width; }
 html {
-  font-size: 16px;
+  font-size: 18px;
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: transparent; }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "Raleway", Tahoma, Geneva, sans-serif;
   font-size: 1rem;
   line-height: 1.5;
-  color: #373a3c;
-  background-color: #fff; }
+  color: #262626;
+  background-color: #fafafa; }
 
 [tabindex="-1"]:focus {
   outline: none !important; }
@@ -2065,7 +2065,7 @@ h1, h2, h3, h4, h5, h6,
   color: inherit; }
 
 h1, .h1 {
-  font-size: 2.5rem; }
+  font-size: 3rem; }
 
 h2, .h2 {
   font-size: 2rem; }
@@ -2977,10 +2977,10 @@ a.text-danger:focus, a.text-danger:hover {
   color: #c9302c !important; }
 
 .text-gray-dark {
-  color: #373a3c !important; }
+  color: #262626 !important; }
 
 a.text-gray-dark:focus, a.text-gray-dark:hover {
-  color: #1f2021 !important; }
+  color: #0d0d0d !important; }
 
 .text-hide {
   font: 0/0 a;
@@ -3059,8 +3059,114 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 ***************/
 /********************************
 
+# Base Theme Settings
+
+# Create new variables to supplement those created 
+# by Bootstrap. 
+
+*******************************/
+/***************
+#
+# General & Utilities
+#
+****************/
+body {
+  margin: 0; }
+
+/***************
+#
+# Colors
+#
+****************
+
+# Base color variables to be used in website */
+/***************
+#
+# Typography
+#
+****************/
+h1, h2, h3 {
+  font-family: 'Lobster', cursive; }
+
+h1, h2, h1 span, h2 span {
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent; }
+
+h1 {
+  padding: .5rem 0; }
+
+h1 span {
+  background-image: linear-gradient(to right, #eeae32 0%, #d16679 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEEAE32', endColorstr='#FFD16679', GradientType=1); }
+
+h2 {
+  position: relative; }
+
+h2 span {
+  background-image: linear-gradient(to right, #d16679 0%, #eeae32 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFD16679', endColorstr='#FFEEAE32', GradientType=1); }
+
+h3 {
+  color: #646464; }
+
+h4 {
+  color: #646464;
+  font-family: "Raleway", Tahoma, Geneva, sans-serif; }
+
+h2:after {
+  background: #cfcfcf;
+  border-left: 20px solid #fafafa;
+  content: " ";
+  display: block;
+  height: 2px;
+  position: absolute;
+  width: 100%; }
+
+/********************************
+
+# Theme Buttons
+
+*******************************/
+div.btn-group {
+  width: 100%; }
+
+div.btn-group button.btn.col-xs-3 {
+  border-radius: 0;
+  color: white;
+  outline: 0; }
+
+div.btn-group button.btn.col-xs-3:first-of-type {
+  background: #d16679; }
+
+div.btn-group button.btn.col-xs-3:nth-of-type(2) {
+  background: #e29067; }
+
+div.btn-group button.btn.col-xs-3:nth-of-type(3) {
+  background: #e69847; }
+
+div.btn-group button.btn.col-xs-3:last-of-type {
+  background: #eeae32; }
+
+/********************************
+
 # Cover SCSS Component
 
 *******************************/
+header#landing {
+  background-color: #262626;
+  height: 85vh;
+  position: relative; }
+
+header#landing div.container {
+  padding: 1.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -50%;
+  right: -50%;
+  text-align: center; }
 
 /*# sourceMappingURL=app.css.map */
