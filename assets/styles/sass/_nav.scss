@@ -1,0 +1,30 @@
+/********************************
+
+# Theme Navigation
+
+*******************************/
+
+nav.navbar.navbar-light.bg-faded { 
+	background-color: $base_white;
+	
+	button.navbar-toggler { 
+		cursor: pointer;
+		position: absolute;
+		right: $spacer;
+	}
+	
+	ul { @include media-breakpoint-down(sm) { margin-top: $spacer/2; } }
+}
+
+a.navbar-brand { 
+	cursor: default;
+	@include media-breakpoint-down(sm) { width: 100% }
+	span { cursor: pointer; }
+}
+
+div.navbar-toggleable-xs.collapse.in:before {
+	content: " ";
+	clear:both;
+	display:block;
+	overflow:auto;
+}
