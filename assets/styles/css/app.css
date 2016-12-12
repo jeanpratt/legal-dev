@@ -8,206 +8,6 @@
 4 Uncomment as needed
 
 *******************************/
-/***************
-#
-# Variables
-#
-****************
-
-# Load default Bootstrap variables,
-# then load file that overwrites them */
-/********************************
-
-# Bootstrap overrides
-
-# Copy variables from `_variables.scss` to this file to override default values
-# without modifying source files. 
-
-*******************************/
-/***************
-#
-# Colors
-#
-****************
-
-# Grayscale and brand colors for use across Bootstrap. */
-/***************
-#
-# Options
-#
-****************
-
-# Quickly modify global styling by enabling or disabling optional features.*/
-/***************
-#
-# Spacing
-#
-****************
-
-# Control the default styling of most Bootstrap elements by modifying these
-# variables. Mostly focused on spacing.
-# You can add more entries to the $spacers map, should you need more variation.*/
-/***************
-#
-# Body
-#
-**************** 
-
-# Settings for the `<body>` element. */
-/***************
-#
-# Links
-#
-****************
-
-# Style anchor elements. */
-/***************
-#
-# Grid breakpoints
-#
-**************** 
-	
-# Define the minimum dimensions at which your layout will change,
-# adapting to different screen sizes, for use in media queries.*/
-/***************
-#
-# Grid containers
-#
-**************** 
-
-# Define the maximum width of `.container` for different screen sizes. */
-/***************
-#
-# Grid columns
-#
-****************
- 
-# Set the number of columns and specify the width of the gutters. */
-/***************
-#
-# Typography
-#
-****************
-
-# Font, line-height, and color for body text, headings, and more. */
-/*
-# Pixel value used to responsively scale all typography. Applied to the `<html>` element. */
-/***************
-#
-# Components
-#
-****************
-
-# Define common padding and border radius sizes and more. */
-/**************** 
-# Tables
-*****************
-
-# Customizes the `.table` component with basic values, each used across all table variations. */
-/**************** 
-# Buttons
-*****************
- 
-# For each of Bootstrap's buttons, define text, background and border color. */
-/**************** 
-# Forms
-*****************/
-/****************
-# Form validation icons
-*****************/
-/****************
-# Dropdowns
-*****************
-
-# Dropdown menu container and contents. */
-/****************
-# Z-index master list
-*****************
-
-# Warning: Avoid customizing these values. They're used for a bird's eye view
-# of components dependent on the z-axis and are designed to all work together. */
-/****************
-# Navbar
-*****************/
-/****************
-# Navs
-*****************/
-/****************
-# Pagination
-*****************/
-/****************
-# Jumbotron
-*****************/
-/****************
-# Form states and alerts
-*****************
-
-# Define colors for form feedback states and, by default, alerts. */
-/**************** 
-# Cards
-*****************/
-/****************
-# Tooltips
-*****************/
-/****************
-# Popovers
-*****************/
-/****************
-# Tags
-*****************/
-/* 
-# Use a higher than normal value to ensure completely rounded edges when
-# customizing padding or font-size on labels. */
-/****************
-# Modals
-*****************/
-/**************** 
-# Alerts
-*****************
-
-# Define alert colors, border radius, and padding.*/
-/****************  
-# Progress bars
-*****************/
-/**************** 
-# List group
-*****************/
-/**************** 
-# Image thumbnails
-*****************/
-/**************** 
-# Figures
-*****************/
-/**************** 
-# Breadcrumbs
-*****************/
-/**************** 
-# Media Objects
-*****************/
-/**************** 
-# Carousel
-*****************/
-/**************** 
-# Close
-*****************/
-/**************** 
-# Code
-*****************/
-/***************
-#
-# Mixins
-#
-***************/
-/***************
-#
-# Reset and dependencies
-#
-***************/
-/***************
-#
-# Core SASS
-#
-***************/
 .btn {
   display: inline-block;
   font-weight: normal;
@@ -1492,31 +1292,6 @@ input[type="button"].btn-block {
 
   .offset-xl-11 {
     margin-left: 91.66667%; } }
-.img-fluid, .carousel-inner > .carousel-item > img,
-.carousel-inner > .carousel-item > a > img {
-  max-width: 100%;
-  height: auto; }
-
-.img-thumbnail {
-  padding: 0.25rem;
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 0.25rem;
-  transition: all .2s ease-in-out;
-  max-width: 100%;
-  height: auto; }
-
-.figure {
-  display: inline-block; }
-
-.figure-img {
-  margin-bottom: 0.5rem;
-  line-height: 1; }
-
-.figure-caption {
-  font-size: 90%;
-  color: #cfcfcf; }
-
 .nav {
   padding-left: 0;
   margin-bottom: 0;
@@ -2056,6 +1831,37 @@ output {
 [hidden] {
   display: none !important; }
 
+.embed-responsive {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden; }
+  .embed-responsive .embed-responsive-item,
+  .embed-responsive iframe,
+  .embed-responsive embed,
+  .embed-responsive object,
+  .embed-responsive video {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0; }
+
+.embed-responsive-21by9 {
+  padding-bottom: 42.85714%; }
+
+.embed-responsive-16by9 {
+  padding-bottom: 56.25%; }
+
+.embed-responsive-4by3 {
+  padding-bottom: 75%; }
+
+.embed-responsive-1by1 {
+  padding-bottom: 100%; }
+
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
@@ -2163,11 +1969,6 @@ mark,
 dl.row > dd + dt {
   clear: left; }
 
-/***************
-#
-# CSS Components
-#
-***************/
 .fade {
   opacity: 0;
   transition: opacity .15s linear; }
@@ -2338,174 +2139,6 @@ tbody.collapse.in {
   clip: rect(0, 0, 0, 0);
   pointer-events: none; }
 
-/***************
-#
-# CSS/JS Components
-#
-***************/
-.carousel {
-  position: relative; }
-
-.carousel-inner {
-  position: relative;
-  width: 100%;
-  overflow: hidden; }
-  .carousel-inner > .carousel-item {
-    position: relative;
-    display: none;
-    transition: .6s ease-in-out left; }
-    .carousel-inner > .carousel-item > img,
-    .carousel-inner > .carousel-item > a > img {
-      line-height: 1; }
-    @media all and (transform-3d), (-webkit-transform-3d) {
-      .carousel-inner > .carousel-item {
-        transition: transform .6s ease-in-out;
-        backface-visibility: hidden;
-        perspective: 1000px; }
-        .carousel-inner > .carousel-item.next, .carousel-inner > .carousel-item.active.right {
-          left: 0;
-          transform: translate3d(100%, 0, 0); }
-        .carousel-inner > .carousel-item.prev, .carousel-inner > .carousel-item.active.left {
-          left: 0;
-          transform: translate3d(-100%, 0, 0); }
-        .carousel-inner > .carousel-item.next.left, .carousel-inner > .carousel-item.prev.right, .carousel-inner > .carousel-item.active {
-          left: 0;
-          transform: translate3d(0, 0, 0); } }
-  .carousel-inner > .active,
-  .carousel-inner > .next,
-  .carousel-inner > .prev {
-    display: block; }
-  .carousel-inner > .active {
-    left: 0; }
-  .carousel-inner > .next,
-  .carousel-inner > .prev {
-    position: absolute;
-    top: 0;
-    width: 100%; }
-  .carousel-inner > .next {
-    left: 100%; }
-  .carousel-inner > .prev {
-    left: -100%; }
-  .carousel-inner > .next.left,
-  .carousel-inner > .prev.right {
-    left: 0; }
-  .carousel-inner > .active.left {
-    left: -100%; }
-  .carousel-inner > .active.right {
-    left: 100%; }
-
-.carousel-control {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 15%;
-  font-size: 20px;
-  color: #fff;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
-  opacity: 0.5; }
-  .carousel-control.left {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.0001) 100%);
-    background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1); }
-  .carousel-control.right {
-    right: 0;
-    left: auto;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.5) 100%);
-    background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1); }
-  .carousel-control:focus, .carousel-control:hover {
-    color: #fff;
-    text-decoration: none;
-    outline: 0;
-    opacity: .9; }
-  .carousel-control .icon-prev,
-  .carousel-control .icon-next {
-    position: absolute;
-    top: 50%;
-    z-index: 5;
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    margin-top: -10px;
-    font-family: serif;
-    line-height: 1; }
-  .carousel-control .icon-prev {
-    left: 50%;
-    margin-left: -10px; }
-  .carousel-control .icon-next {
-    right: 50%;
-    margin-right: -10px; }
-  .carousel-control .icon-prev::before {
-    content: "\2039"; }
-  .carousel-control .icon-next::before {
-    content: "\203a"; }
-
-.carousel-indicators {
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
-  z-index: 15;
-  width: 60%;
-  padding-left: 0;
-  margin-left: -30%;
-  text-align: center;
-  list-style: none; }
-  .carousel-indicators li {
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    margin: 1px;
-    text-indent: -999px;
-    cursor: pointer;
-    background-color: transparent;
-    border: 1px solid #fff;
-    border-radius: 10px; }
-  .carousel-indicators .active {
-    width: 12px;
-    height: 12px;
-    margin: 0;
-    background-color: #fff; }
-
-.carousel-caption {
-  position: absolute;
-  right: 15%;
-  bottom: 20px;
-  left: 15%;
-  z-index: 10;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  color: #fff;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6); }
-  .carousel-caption .btn {
-    text-shadow: none; }
-
-@media (min-width: 576px) {
-  .carousel-control .icon-prev,
-  .carousel-control .icon-next {
-    width: 30px;
-    height: 30px;
-    margin-top: -15px;
-    font-size: 30px; }
-  .carousel-control .icon-prev {
-    margin-left: -15px; }
-  .carousel-control .icon-next {
-    margin-right: -15px; }
-
-  .carousel-caption {
-    right: 20%;
-    left: 20%;
-    padding-bottom: 30px; }
-
-  .carousel-indicators {
-    bottom: 20px; } }
-/***************
-#
-# Utilities
-#
-***************/
 .align-baseline {
   vertical-align: baseline !important; }
 
@@ -3052,11 +2685,6 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   .hidden-print {
     display: none !important; } }
 
-/***************
-#
-# Custom SASS
-#
-***************/
 /********************************
 
 # Base Theme Settings
@@ -3089,45 +2717,66 @@ body {
 # Typography
 #
 ****************/
-h1, h2, h3 {
+h1, h2, h3, a.navbar-brand {
   font-family: 'Lobster', cursive; }
+  h1 span, h2 span, h3 span, a.navbar-brand span {
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent; }
 
-h1, h2, h1 span, h2 span {
-  background-clip: text !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent; }
-
-h1 {
-  padding: .5rem 0; }
-
-h1 span {
+h1 span, a.navbar-brand span {
   background-image: linear-gradient(to right, #eeae32 0%, #d16679 100%);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEEAE32', endColorstr='#FFD16679', GradientType=1); }
 
-h2 {
-  position: relative; }
-
-h2 span {
-  background-image: linear-gradient(to right, #d16679 0%, #eeae32 100%);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFD16679', endColorstr='#FFEEAE32', GradientType=1); }
-
-h3 {
+h3, h4 {
   color: #646464; }
 
+h1 {
+  padding: .5rem 0; }
+  @media (max-width: 575px) {
+    h1 span {
+      font-size: 2rem; } }
+
+h2 {
+  position: relative; }
+  h2 span {
+    background-image: linear-gradient(to right, #d16679 0%, #eeae32 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFD16679', endColorstr='#FFEEAE32', GradientType=1); }
+  h2:after {
+    background: #cfcfcf;
+    border-left: 20px solid #fafafa;
+    content: " ";
+    display: block;
+    height: 2px;
+    position: absolute;
+    width: 100%; }
+
 h4 {
-  color: #646464;
   font-family: "Raleway", Tahoma, Geneva, sans-serif; }
 
-h2:after {
-  background: #cfcfcf;
-  border-left: 20px solid #fafafa;
-  content: " ";
-  display: block;
-  height: 2px;
-  position: absolute;
-  width: 100%; }
+/***************
+#
+# Header
+#
+****************/
+header {
+  background-color: #262626;
+  color: #fafafa;
+  width: 100%;
+  margin: 0 0 3rem;
+  position: relative; }
+  header:after {
+    border: 30px solid transparent;
+    border-top-color: #262626;
+    content: "";
+    left: 50%;
+    margin-left: -30px;
+    position: absolute;
+    top: 100%; }
+  header div.container {
+    text-align: center; }
 
 /********************************
 
@@ -3137,22 +2786,40 @@ h2:after {
 div.btn-group {
   width: 100%; }
 
-div.btn-group button.btn {
-  border-radius: 0;
+.btn, button {
+  border-radius: 0 !important;
   color: white;
-  outline: 0; }
+  font-family: "Raleway", Tahoma, Geneva, sans-serif;
+  outline: 0;
+  padding: 1rem;
+  text-transform: uppercase;
+  max-width: 100%; }
+  .btn:focus, .btn:active:focus, button:focus, button:active:focus {
+    outline: 0; }
 
-div.btn-group button:first-of-type {
+.btn-red {
   background: #d16679; }
+  .btn-red:hover {
+    background-color: #dd8d9b;
+    transition: all 0.3s; }
 
-div.btn-group button.btn:nth-of-type(2) {
+.btn-orange {
   background: #e29067; }
+  .btn-orange:hover {
+    background-color: #eaaf92;
+    transition: all 0.3s; }
 
-div.btn-group button.btn:last-of-type {
+.btn-yellow {
   background: #eeae32; }
+  .btn-yellow:hover {
+    background-color: #f2c161;
+    transition: all 0.3s; }
 
-div.btn-group button.btn.col-xs-3:nth-of-type(3) {
+.btn-peach {
   background: #e69847; }
+  .btn-peach:hover {
+    background-color: #ecb174;
+    transition: all 0.3s; }
 
 /********************************
 
@@ -3160,62 +2827,179 @@ div.btn-group button.btn.col-xs-3:nth-of-type(3) {
 
 *******************************/
 header#landing {
-  background-color: #262626;
   height: 85vh;
+  min-height: 350px;
   max-width: 100%;
-  margin-bottom: 3rem;
   position: relative; }
+  header#landing div.container {
+    padding: 1.5rem;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -50%;
+    right: -50%; }
+    @media (max-width: 767px) {
+      header#landing div.container {
+        width: 100%; } }
+    header#landing div.container div.col-md-4 {
+      max-width: 100%;
+      margin-bottom: 1rem;
+      overflow: auto; }
+      header#landing div.container div.col-md-4 button {
+        display: block;
+        padding: 1rem;
+        width: 100%; }
+        @media (min-width: 576px) {
+          header#landing div.container div.col-md-4 button {
+            padding: 1.5rem; } }
+        @media (min-width: 768px) {
+          header#landing div.container div.col-md-4 button {
+            padding: 2rem; } }
 
-header#landing:after {
-  border: 30px solid transparent;
-  border-top-color: #262626;
-  content: "";
-  left: 50%;
-  margin-left: -30px;
-  position: absolute;
-  top: 100%; }
+/********************************
 
-header#landing div.container {
-  padding: 1.5rem;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  left: -50%;
-  right: -50%;
-  text-align: center; }
+# Theme Jumbotron
 
-header#landing div.container div.row div.col-md-4 {
-  max-width: 100%;
+*******************************/
+header.jumbotron {
+  padding: 10rem 0; }
+  header.jumbotron div.container {
+    max-width: 1000px;
+    margin: 0 auto; }
+
+/********************************
+
+# Article SCSS Component
+
+*******************************/
+div.featurette {
+  margin-bottom: 2rem; }
+  div.featurette div.col-md-6 {
+    margin-bottom: 1rem; }
+  div.featurette button.btn {
+    width: 100%; }
+    @media (max-width: 991px) {
+      div.featurette button.btn {
+        margin-bottom: 2rem; } }
+
+/********************************
+
+# Tapbox SCSS Component
+
+*******************************/
+div.tapbox {
+  color: #fafafa;
+  cursor: pointer;
+  height: 200px;
   margin-bottom: 1rem;
-  overflow: auto; }
+  overflow: hidden;
+  position: relative;
+  text-align: center; }
+  @media (min-width: 576px) {
+    div.tapbox {
+      border-right: 1rem solid white; } }
 
-header#landing div.container div.row div.col-md-4 a {
-  border-radius: 0;
-  color: white;
-  display: block;
-  font-family: "Raleway", Tahoma, Geneva, sans-serif;
-  text-transform: uppercase;
+div.tap-slide_1, div.tap-slide_2 {
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
   width: 100%; }
 
-header#landing div.container div.row div.col-md-4:first-of-type a {
-  background: #eeae32; }
+div.tap-slide_1 {
+  text-transform: uppercase;
+  z-index: 1; }
+  div.tap-slide_1 span {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -50%;
+    right: -50%; }
 
-header#landing div.container div.row div.col-md-4:nth-of-type(2) a {
-  background: #e29067; }
+div.tap-slide_2 {
+  z-index: 0; }
+  div.tap-slide_2 blockquote {
+    border-left: 0;
+    font-size: 1rem;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%); }
+    @media (min-width: 768px) {
+      div.tap-slide_2 blockquote {
+        font-size: 0.8rem; } }
+    @media (min-width: 992px) {
+      div.tap-slide_2 blockquote {
+        font-size: 1rem; } }
+    div.tap-slide_2 blockquote .blockquote-footer {
+      color: rgba(255, 255, 255, 0.7); }
 
-header#landing div.container div.row div.col-md-4:last-of-type a {
-  background: #d16679; }
+div.row:first-of-type div.tapbox:nth-of-type(2) div.tap-slide_1,
+div.row:first-of-type div.tapbox:nth-of-type(2) div.tap-slide_2,
+div.row:nth-of-type(2) div.tapbox:last-of-type div.tap-slide_1,
+div.row:nth-of-type(2) div.tapbox:last-of-type div.tap-slide_2 {
+  background-color: #d16679; }
+  div.row:first-of-type div.tapbox:nth-of-type(2) div.tap-slide_1:hover,
+  div.row:first-of-type div.tapbox:nth-of-type(2) div.tap-slide_2:hover,
+  div.row:nth-of-type(2) div.tapbox:last-of-type div.tap-slide_1:hover,
+  div.row:nth-of-type(2) div.tapbox:last-of-type div.tap-slide_2:hover {
+    background-color: #dd8d9b;
+    transition: all 0.3s; }
 
-header#landing div.container div.row div.col-md-4:first-of-type a:hover {
-  background-color: #f2c161;
-  transition: all 0.3s; }
+div.row:first-of-type div.tapbox:last-of-type div.tap-slide_1,
+div.row:first-of-type div.tapbox:last-of-type div.tap-slide_2 {
+  background-color: #e29067; }
+  div.row:first-of-type div.tapbox:last-of-type div.tap-slide_1:hover,
+  div.row:first-of-type div.tapbox:last-of-type div.tap-slide_2:hover {
+    background-color: #eaaf92;
+    transition: all 0.3s; }
 
-header#landing div.container div.row div.col-md-4:nth-of-type(2) a:hover {
-  background-color: #eaaf92;
-  transition: all 0.3s; }
+div.row:nth-of-type(2) div.tapbox:first-of-type div.tap-slide_1,
+div.row:nth-of-type(2) div.tapbox:first-of-type div.tap-slide_2 {
+  background-color: #e69847; }
+  div.row:nth-of-type(2) div.tapbox:first-of-type div.tap-slide_1:hover,
+  div.row:nth-of-type(2) div.tapbox:first-of-type div.tap-slide_2:hover {
+    background-color: #ecb174;
+    transition: all 0.3s; }
 
-header#landing div.container div.row div.col-md-4:last-of-type a:hover {
-  background-color: #dd8d9b;
-  transition: all 0.3s; }
+div.row:first-of-type div.tapbox:first-of-type div.tap-slide_1,
+div.row:first-of-type div.tapbox:first-of-type div.tap-slide_2,
+div.row:nth-of-type(2) div.tapbox:nth-of-type(2) div.tap-slide_1,
+div.row:nth-of-type(2) div.tapbox:nth-of-type(2) div.tap-slide_2 {
+  background-color: #eeae32; }
+  div.row:first-of-type div.tapbox:first-of-type div.tap-slide_1:hover,
+  div.row:first-of-type div.tapbox:first-of-type div.tap-slide_2:hover,
+  div.row:nth-of-type(2) div.tapbox:nth-of-type(2) div.tap-slide_1:hover,
+  div.row:nth-of-type(2) div.tapbox:nth-of-type(2) div.tap-slide_2:hover {
+    background-color: #f2c161;
+    transition: all 0.3s; }
+
+/********************************
+
+# Theme Navigation
+
+*******************************/
+nav.navbar.navbar-light.bg-faded {
+  background-color: #fafafa; }
+  nav.navbar.navbar-light.bg-faded button.navbar-toggler {
+    cursor: pointer;
+    position: absolute;
+    right: 1rem; }
+  @media (max-width: 767px) {
+    nav.navbar.navbar-light.bg-faded ul {
+      margin-top: 0.5rem; } }
+
+a.navbar-brand {
+  cursor: default; }
+  @media (max-width: 767px) {
+    a.navbar-brand {
+      width: 100%; } }
+  a.navbar-brand span {
+    cursor: pointer; }
+
+div.navbar-toggleable-xs.collapse.in:before {
+  content: " ";
+  clear: both;
+  display: block;
+  overflow: auto; }
 
 /*# sourceMappingURL=app.css.map */
