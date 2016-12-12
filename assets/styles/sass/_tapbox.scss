@@ -1,0 +1,104 @@
+/********************************
+
+# Tapbox SCSS Component
+
+*******************************/
+
+$height: 200px;
+
+div.tapbox {
+	color: $base_white;
+	cursor: pointer;
+	height: $height;
+	margin-bottom: $spacer;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	
+	@include media-breakpoint-up(sm) { 
+		border-right: 1rem solid white;
+	}
+}
+
+div.tap-slide_1, div.tap-slide_2 {
+	height: $height;
+	left: 0;
+	position: absolute;
+	top:0;
+	width: 100%;
+}
+
+div.tap-slide_1 {
+	text-transform: uppercase;
+	z-index: 1;
+	
+	span {
+		@include perfect_center();
+	}
+}
+
+div.tap-slide_2 {
+	z-index: 0;
+	
+	blockquote {
+		border-left: 0;
+		font-size: 1rem;
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		
+		@include media-breakpoint-up(md) { 
+			font-size: 0.8rem;
+		}
+		
+		@include media-breakpoint-up(lg) { 
+			font-size: 1rem;
+		}
+		
+		.blockquote-footer {
+			color: rgba(255, 255, 255, 0.7);
+		}
+	}
+}
+
+div.row:first-of-type div.tapbox:nth-of-type(2),
+div.row:nth-of-type(2) div.tapbox:last-of-type
+{
+	div.tap-slide_1,
+	div.tap-slide_2 {
+		background-color: $base_red;
+		
+		&:hover { @include lighter($base_red) }
+	}
+}
+
+div.row:first-of-type div.tapbox:last-of-type
+{
+	div.tap-slide_1,
+	div.tap-slide_2 {
+		background-color: $base_orange;
+	
+		&:hover { @include lighter($base_orange) }
+	}
+}
+
+div.row:nth-of-type(2) div.tapbox:first-of-type 
+{
+	div.tap-slide_1,
+	div.tap-slide_2 {
+		background-color: $base_peach;
+	
+		&:hover { @include lighter($base_peach) }
+	}
+}
+
+div.row:first-of-type div.tapbox:first-of-type,
+div.row:nth-of-type(2) div.tapbox:nth-of-type(2)
+{
+	div.tap-slide_1,
+	div.tap-slide_2 {
+		background-color: $base_yellow;
+	
+		&:hover { @include lighter($base_yellow) }
+	}
+}
