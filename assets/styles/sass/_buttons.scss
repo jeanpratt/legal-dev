@@ -8,24 +8,26 @@ div.btn-group {
 	width: 100%;
 }
 
-div.btn-group button.btn {
-	border-radius: 0;
+.btn, button {
+	border-radius: 0 !important;
 	color: white;
+	font-family: $font-family-sans-serif;
 	outline: 0;
-}
-
-div.btn-group button:first-of-type {
-	background: $base_red;
-}
+	padding: $spacer;
+	text-transform: uppercase;
+	max-width: 100%;
 	
-div.btn-group button.btn:nth-of-type(2) {
-	background: $base_orange;
+	&:focus, &:active:focus { outline: 0; }
 }
 
-div.btn-group button.btn:last-of-type {
-	background: $base_yellow;
-}
+.btn-red	{ background: $base_red; 
+	&:hover { @include lighter($base_red) } }
 
-div.btn-group button.btn.col-xs-3:nth-of-type(3) {
-	background: $base_peach;
-}
+.btn-orange { background: $base_orange; 
+	&:hover { @include lighter($base_orange) } }
+
+.btn-yellow { background: $base_yellow; 
+	&:hover { @include lighter($base_yellow) } }
+
+.btn-peach { background: $base_peach; 
+	&:hover { @include lighter($base_peach) } }
