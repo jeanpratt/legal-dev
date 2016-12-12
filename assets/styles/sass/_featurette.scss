@@ -1,0 +1,15 @@
+/********************************
+
+# Article SCSS Component
+
+*******************************/
+
+div.featurette {
+	margin-bottom: ($spacer*2);
+	div.col-md-6 { margin-bottom: $spacer; }
+	
+	button.btn { 
+		width: 100%;
+		@include media-breakpoint-down(md) {  margin-bottom: ($spacer*2); } 
+	}
+}
