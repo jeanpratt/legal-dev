@@ -1,20 +1,20 @@
-/********************************
+// /********************************
+// 
+// # Bootstrap overrides
+// 
+// # Copy variables from `_variables.scss` to this file to override default values
+// # without modifying source files. 
+// 
+// *******************************/
 
-# Bootstrap overrides
 
-# Copy variables from `_variables.scss` to this file to override default values
-# without modifying source files. 
+// ***************
+// #
+// # Colors
+// #
+// ****************
 
-*******************************/
-
-
-/***************
-#
-# Colors
-#
-****************
-
-# Grayscale and brand colors for use across Bootstrap. */
+// # Grayscale and brand colors for use across Bootstrap.
 
 $gray-dark:                 #262626;
 $gray:                      #646464;
@@ -30,13 +30,13 @@ $gray-light:                #cfcfcf;
 // $brand-inverse:             $gray-dark !default;
 
 
-/***************
-#
-# Options
-#
-****************
+// ***************
+// #
+// # Options
+// #
+// ****************
 
-# Quickly modify global styling by enabling or disabling optional features.*/
+// # Quickly modify global styling by enabling or disabling optional features.
 
 // $enable-flex:               false !default;
 // $enable-rounded:            true !default;
@@ -48,15 +48,15 @@ $gray-light:                #cfcfcf;
 // $enable-print-styles:       true !default;
 
 
-/***************
-#
-# Spacing
-#
-****************
+// ***************
+// #
+// # Spacing
+// #
+// ****************
 
-# Control the default styling of most Bootstrap elements by modifying these
-# variables. Mostly focused on spacing.
-# You can add more entries to the $spacers map, should you need more variation.*/
+// # Control the default styling of most Bootstrap elements by modifying these
+// # variables. Mostly focused on spacing.
+// # You can add more entries to the $spacers map, should you need more variation.
 
 // $spacer:   1rem !default;
 // $spacer-x: $spacer !default;
@@ -82,25 +82,25 @@ $gray-light:                #cfcfcf;
 // $border-width: 1px !default;
 
 
-/***************
-#
-# Body
-#
-**************** 
+// ***************
+// #
+// # Body
+// #
+// **************** 
 
-# Settings for the `<body>` element. */
+// # Settings for the `<body>` element.
 
 $body-bg:    #fafafa;
 $body-color: $gray-dark;
 
 
-/***************
-#
-# Links
-#
-****************
+// ***************
+// #
+// # Links
+// #
+// ****************
 
-# Style anchor elements. */
+// # Style anchor elements.
 
 // $link-color:            $brand-primary !default;
 // $link-decoration:       none !default;
@@ -108,14 +108,14 @@ $body-color: $gray-dark;
 // $link-hover-decoration: underline !default;
 
 
-/***************
-#
-# Grid breakpoints
-#
-**************** 
+// ***************
+// #
+// # Grid breakpoints
+// #
+// **************** 
 	
-# Define the minimum dimensions at which your layout will change,
-# adapting to different screen sizes, for use in media queries.*/
+// # Define the minimum dimensions at which your layout will change,
+// # adapting to different screen sizes, for use in media queries.
 
 // $grid-breakpoints: (
 //   xs: 0,
@@ -127,13 +127,13 @@ $body-color: $gray-dark;
 // @include _assert-ascending($grid-breakpoints, "$grid-breakpoints");
 
 
-/***************
-#
-# Grid containers
-#
-**************** 
+// ***************
+// #
+// # Grid containers
+// #
+// **************** 
 
-# Define the maximum width of `.container` for different screen sizes. */
+// # Define the maximum width of `.container` for different screen sizes.
 
 // $container-max-widths: (
 //   sm: 540px,
@@ -144,13 +144,13 @@ $body-color: $gray-dark;
 // @include _assert-ascending($container-max-widths, "$container-max-widths");
 
 
-/***************
-#
-# Grid columns
-#
-****************
+// ***************
+// #
+// # Grid columns
+// #
+// ****************
  
-# Set the number of columns and specify the width of the gutters. */
+// # Set the number of columns and specify the width of the gutters.
 
 // $grid-columns:               12 !default;
 // $grid-gutter-width-base:     30px !default;
@@ -162,21 +162,20 @@ $body-color: $gray-dark;
 //   xl: $grid-gutter-width-base
 // ) !default;
 
-/***************
-#
-# Typography
-#
-****************
+// ***************
+// #
+// # Typography
+// #
+// ****************
 
-# Font, line-height, and color for body text, headings, and more. */
+// # Font, line-height, and color for body text, headings, and more.
 
 $font-family-sans-serif: 'Raleway', Tahoma, Geneva, sans-serif;
 $font-family-serif:      'Lobster', Georgia, "Bookman Old Style", cursive;
 // $font-family-monospace:  Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 $font-family-base:       $font-family-sans-serif;
 
-/*
-# Pixel value used to responsively scale all typography. Applied to the `<html>` element. */
+// # Pixel value used to responsively scale all typography. Applied to the `<html>` element.
 
 $font-size-root: 18px;
 
@@ -237,13 +236,13 @@ $font-size-h1: 3rem;
 // $list-inline-padding: 5px !default;
 
 
-/***************
-#
-# Components
-#
-****************
+// ***************
+// #
+// # Components
+// #
+// ****************
 
-# Define common padding and border radius sizes and more. */
+// # Define common padding and border radius sizes and more.
 
 // $line-height-lg:         (4 / 3) !default;
 // $line-height-sm:         1.5 !default;
@@ -259,11 +258,11 @@ $font-size-h1: 3rem;
 // $caret-width-lg:         $caret-width !default;
 
 
-/**************** 
-# Tables
-*****************
+// **************** 
+// # Tables
+// *****************
 
-# Customizes the `.table` component with basic values, each used across all table variations. */
+// # Customizes the `.table` component with basic values, each used across all table variations.
 
 // $table-cell-padding:            .75rem !default;
 // $table-sm-cell-padding:         .3rem !default;
@@ -277,11 +276,11 @@ $font-size-h1: 3rem;
 // $table-border-color:            $gray-lighter !default;
 
 
-/**************** 
-# Buttons
-*****************
- 
-# For each of Bootstrap's buttons, define text, background and border color. */
+// **************** 
+// # Buttons
+// *****************
+
+// # For each of Bootstrap's buttons, define text, background and border color.
 
 // $btn-padding-x:                  1rem !default;
 $btn-padding-y:                  	2.5rem;
@@ -331,9 +330,9 @@ $btn-padding-y:                  	2.5rem;
 // $btn-border-radius-sm:           $border-radius-sm !default;
 
 
-/**************** 
-# Forms
-*****************/
+// **************** 
+// # Forms
+// *****************
 
 // $input-padding-x:                .75rem !default;
 // $input-padding-y:                .5rem !default;
@@ -454,9 +453,9 @@ $btn-padding-y:                  	2.5rem;
 // ) !default;
 
 
-/****************
-# Form validation icons
-*****************/
+// ****************
+// # Form validation icons
+// *****************
 
 // $form-icon-success-color: $brand-success !default;
 // $form-icon-success: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='#{$form-icon-success-color}' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3E%3C/svg%3E") !default;
@@ -468,11 +467,11 @@ $btn-padding-y:                  	2.5rem;
 // $form-icon-danger: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='#{$form-icon-danger-color}' viewBox='-2 -2 7 7'%3E%3Cpath stroke='%23d9534f' d='M0 0l3 3m0-3L0 3'/%3E%3Ccircle r='.5'/%3E%3Ccircle cx='3' r='.5'/%3E%3Ccircle cy='3' r='.5'/%3E%3Ccircle cx='3' cy='3' r='.5'/%3E%3C/svg%3E") !default;
 
 
-/****************
-# Dropdowns
-*****************
+// ****************
+// # Dropdowns
+// *****************
 
-# Dropdown menu container and contents. */
+// # Dropdown menu container and contents.
 
 // $dropdown-min-width:             10rem !default;
 // $dropdown-padding-y:             .5rem !default;
@@ -497,12 +496,12 @@ $btn-padding-y:                  	2.5rem;
 // $dropdown-header-color:          $gray-light !default;
 
 
-/****************
-# Z-index master list
-*****************
+// ****************
+// # Z-index master list
+// *****************
 
-# Warning: Avoid customizing these values. They're used for a bird's eye view
-# of components dependent on the z-axis and are designed to all work together. */
+// # Warning: Avoid customizing these values. They're used for a bird's eye view
+// # of components dependent on the z-axis and are designed to all work together.
 
 // $zindex-dropdown-backdrop:  990 !default;
 // $zindex-navbar:            1000 !default;
@@ -515,9 +514,9 @@ $btn-padding-y:                  	2.5rem;
 // $zindex-modal:             1050 !default;
 
 
-/****************
-# Navbar
-*****************/
+// ****************
+// # Navbar
+// *****************
 
 // $navbar-border-radius:              $border-radius !default;
 // $navbar-padding-x:                  $spacer !default;
@@ -549,9 +548,9 @@ $btn-padding-y:                  	2.5rem;
 // $navbar-light-toggler-border:       rgba(0,0,0,.1) !default;
 
 
-/****************
-# Navs
-*****************/
+// ****************
+// # Navs
+// *****************
 
 // $nav-item-margin:               .2rem !default;
 // $nav-item-inline-spacer:        1rem !default;
@@ -576,9 +575,9 @@ $btn-padding-y:                  	2.5rem;
 // $nav-pills-active-link-bg:    $component-active-bg !default;
 
 
-/****************
-# Pagination
-*****************/
+// ****************
+// # Pagination
+// *****************
 
 // $pagination-padding-x:                .75rem !default;
 // $pagination-padding-y:                .5rem !default;
@@ -606,19 +605,19 @@ $btn-padding-y:                  	2.5rem;
 // $pagination-disabled-border:           #ddd !default;
 
 
-/****************
-# Jumbotron
-*****************/
+// ****************
+// # Jumbotron
+// *****************
 
 // $jumbotron-padding:              2rem !default;
 // $jumbotron-bg:                   $gray-lighter !default;
 
 
-/****************
-# Form states and alerts
-*****************
+// ****************
+// # Form states and alerts
+// *****************
 
-# Define colors for form feedback states and, by default, alerts. */
+// # Define colors for form feedback states and, by default, alerts.
 
 // $state-success-text:             #3c763d !default;
 // $state-success-bg:               #dff0d8 !default;
@@ -638,9 +637,9 @@ $btn-padding-y:                  	2.5rem;
 // $state-danger-border:            darken($state-danger-bg, 5%) !default;
 
 
-/**************** 
-# Cards
-*****************/
+// **************** 
+// # Cards
+// *****************
 
 // $card-spacer-x:            1.25rem !default;
 // $card-spacer-y:            .75rem !default;
@@ -660,9 +659,9 @@ $btn-padding-y:                  	2.5rem;
 // $card-columns-sm-up-column-gap: 1.25rem !default;
 
 
-/****************
-# Tooltips
-*****************/
+// ****************
+// # Tooltips
+// *****************
 
 // $tooltip-max-width:           200px !default;
 // $tooltip-color:               #fff !default;
@@ -676,9 +675,9 @@ $btn-padding-y:                  	2.5rem;
 // $tooltip-arrow-color:         $tooltip-bg !default;
 
 
-/****************
-# Popovers
-*****************/
+// ****************
+// # Popovers
+// *****************
 
 // $popover-inner-padding:               1px !default;
 // $popover-bg:                          #fff !default;
@@ -701,9 +700,9 @@ $btn-padding-y:                  	2.5rem;
 // $popover-arrow-outer-color:           fade-in($popover-border-color, .05) !default;
 
 
-/****************
-# Tags
-*****************/
+// ****************
+// # Tags
+// *****************
 
 // $tag-default-bg:            $gray-light !default;
 // $tag-primary-bg:            $brand-primary !default;
@@ -721,16 +720,15 @@ $btn-padding-y:                  	2.5rem;
 
 // $tag-pill-padding-x:        .6em !default;
 
-/* 
-# Use a higher than normal value to ensure completely rounded edges when
-# customizing padding or font-size on labels. */
+// # Use a higher than normal value to ensure completely rounded edges when
+// # customizing padding or font-size on labels.
 
 // $tag-pill-border-radius:    10rem !default;
 
 
-/****************
-# Modals
-*****************/
+// ****************
+// # Modals
+// *****************
 
 // Padding applied to the modal body
 // $modal-inner-padding:         15px !default;
@@ -759,11 +757,11 @@ $btn-padding-y:                  	2.5rem;
 // $modal-sm:                    300px !default;
 
 
-/**************** 
-# Alerts
-*****************
+// **************** 
+// # Alerts
+// *****************
 
-# Define alert colors, border radius, and padding.*/
+// # Define alert colors, border radius, and padding.
 
 // $alert-padding-x:             1.25rem !default;
 // $alert-padding-y:             .75rem !default;
@@ -788,9 +786,9 @@ $btn-padding-y:                  	2.5rem;
 // $alert-danger-border:         $state-danger-border !default;
 
 
-/****************  
-# Progress bars
-*****************/
+// ****************  
+// # Progress bars
+// *****************
 
 // $progress-bg:                 #eee !default;
 // $progress-bar-color:          #0074d9 !default;
@@ -804,9 +802,9 @@ $btn-padding-y:                  	2.5rem;
 // $progress-bar-info-bg:        $brand-info !default;
 
 
-/**************** 
-# List group
-*****************/
+// **************** 
+// # List group
+// *****************
 
 // $list-group-bg:                 #fff !default;
 // $list-group-border-color:       #ddd !default;
@@ -832,9 +830,9 @@ $btn-padding-y:                  	2.5rem;
 // $list-group-item-heading-margin-bottom: 5px !default;
 
 
-/**************** 
-# Image thumbnails
-*****************/
+// **************** 
+// # Image thumbnails
+// *****************
 
 // $thumbnail-padding:           .25rem !default;
 // $thumbnail-bg:                $body-bg !default;
@@ -844,16 +842,16 @@ $btn-padding-y:                  	2.5rem;
 // $thumbnail-box-shadow:        0 1px 2px rgba(0,0,0,.075) !default;
 
 
-/**************** 
-# Figures
-*****************/
+// **************** 
+// # Figures
+// *****************
 
 // $figure-caption-font-size: 90% !default;
 
 
-/**************** 
-# Breadcrumbs
-*****************/
+// **************** 
+// # Breadcrumbs
+// *****************
 
 // $breadcrumb-padding-y:          .75rem !default;
 // $breadcrumb-padding-x:          1rem !default;
@@ -865,18 +863,18 @@ $btn-padding-y:                  	2.5rem;
 // $breadcrumb-divider:            "/" !default;
 
 
-/**************** 
-# Media Objects
-*****************/
+// **************** 
+// # Media Objects
+// *****************
 
 // $media-margin-top:            15px !default;
 // $media-heading-margin-bottom:  5px !default;
 // $media-alignment-padding-x:   10px !default;
 
 
-/**************** 
-# Carousel
-*****************/
+// **************** 
+// # Carousel
+// *****************
 
 // $carousel-text-shadow:                        0 1px 2px rgba(0,0,0,.6) !default;
 
@@ -900,18 +898,18 @@ $btn-padding-y:                  	2.5rem;
 // $carousel-icon-width:                         20px !default;
 
 
-/**************** 
-# Close
-*****************/
+// **************** 
+// # Close
+// *****************
 
 // $close-font-weight:           bold !default;
 // $close-color:                 #000 !default;
 // $close-text-shadow:           0 1px 0 #fff !default;
 
 
-/**************** 
-# Code
-*****************/
+// **************** 
+// # Code
+// *****************
 
 // $code-font-size:              90% !default;
 // $code-padding-x:              .4rem !default;
