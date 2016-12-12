@@ -1,0 +1,14 @@
+/********************************
+
+# Theme Jumbotron
+
+*******************************/
+
+header.jumbotron {
+	padding: ($spacer*10) 0;
+	
+	div.container {
+		max-width: 1000px;
+		margin: 0 auto;
+	}
+}
