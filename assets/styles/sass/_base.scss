@@ -57,33 +57,71 @@ $base_orange:		#e29067;
 $base_peach:		#e69847;
 $base_yellow:		#eeae32;
 
+
 /***************
 #
 # Typography
 #
 ****************/
 
-h1, h2, h3 { font-family: 'Lobster', cursive; }
-
-h1, h2, h1 span, h2 span {
-	background-clip: text !important;
-	-webkit-background-clip: text !important;
-	-webkit-text-fill-color: transparent;
+h1, h2, h3, a.navbar-brand { 
+	font-family: 'Lobster', cursive;
+	
+	span {
+		background-clip: text !important;
+		-webkit-background-clip: text !important;
+		-webkit-text-fill-color: transparent;
+	}
 }
 
-h1 { padding: .5rem 0; }
-h1 span { @include gradient-x($start-color: $base_yellow, $end-color: $base_red, $start-percent: 0%, $end-percent: 100%); }
-h2 { position: relative; }
-h2 span { @include gradient-x($start-color: $base_red, $end-color: $base_yellow, $start-percent: 0%, $end-percent: 100%); }
-h3 { color: $gray; }
-h4 { color: $gray; font-family: $font-family-sans-serif; }
+h1, a.navbar-brand { span { @include gradient-x($start-color: $base_yellow, $end-color: $base_red, $start-percent: 0%, $end-percent: 100%); } }
+h3, h4 { color: $gray; }
 
-h2:after {
-	background: $gray-light;
-	border-left: 20px solid $base_white;
-	content: " ";
-	display:block;
-	height: 2px;
-	position: absolute;
+h1 {
+	padding: .5rem 0;
+	span { @include media-breakpoint-down(xs) { font-size: 2rem; } }
+}
+
+h2 { 
+	position: relative; 
+	span { @include gradient-x($start-color: $base_red, $end-color: $base_yellow, $start-percent: 0%, $end-percent: 100%); }
+	
+	&:after {
+		background: $gray-light;
+		border-left: 20px solid $base_white;
+		content: " ";
+		display:block;
+		height: 2px;
+		position: absolute;
+		width: 100%;
+	}
+}
+
+h4 { font-family: $font-family-sans-serif; }
+
+
+/***************
+#
+# Header
+#
+****************/
+
+header {
+	background-color: $gray_dark;
+	color: $base_white;
 	width: 100%;
+	margin: 0 0 ($spacer*3);
+	position: relative;
+	
+	&:after {
+		border: 30px solid transparent;
+		border-top-color: $gray-dark;
+		content: "";
+		left: 50%;
+		margin-left: -30px;
+		position: absolute;
+		top: 100%;
+	}
+	
+	div.container { text-align: center; }
 }
