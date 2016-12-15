@@ -7,9 +7,16 @@
 div.featurette {
 	margin-bottom: ($spacer*2);
 	div.col-md-6 { margin-bottom: $spacer; }
+	div.col-lg-6 { footer.blockquote-footer { @include media-breakpoint-up(sm) { font-size: 100%; } } }
 	
-	button.btn { 
-		width: 100%;
+	div.btn-group { 
 		@include media-breakpoint-down(md) {  margin-bottom: ($spacer*2); } 
+		
+		@include media-breakpoint-down(sm) {  
+			button { 
+				width: 100%; 
+				&:first-of-type { margin-bottom: $spacer; }
+			} 
+		} 
 	}
 }
