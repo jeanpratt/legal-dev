@@ -7,14 +7,25 @@
 
 *******************************/
 
+$(document).ready(function(){
+
 /***************
 #
 # Tapbox (_tapbox.scss)
 #
 ****************/
 
-$(document).ready(function(){
 	$(".tapbox").click(function(){
 		$(this).find(".tap-slide_1").fadeToggle();
 	});
+
+/***************
+#
+# Tooltips and Popovers
+#
+****************/
+
+	$('[data-toggle="popover"]').popover({ html: true });
+	$('[data-toggle="tooltip"]').tooltip();
+
 });
