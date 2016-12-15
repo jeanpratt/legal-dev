@@ -42,6 +42,11 @@ body { margin: 0; }
 	transition: all 0.3s;
 }
 
+@mixin lighterText($base_color) {
+	color: lighten( $base_color, 10% );
+	transition: all 0.3s;
+}
+
 
 /***************
 #
@@ -94,10 +99,26 @@ h2 {
 		height: 2px;
 		position: absolute;
 		width: 100%;
+		z-index: -1;
 	}
 }
 
 h4 { font-family: $font-family-sans-serif; }
+
+a {
+	color: $base_orange;
+	&:hover, &:focus { 
+		@include lighterText($base_orange); 
+		text-decoration:none;
+	}
+}
+
+.tooltip-trigger {
+	color: $gray;
+	border-bottom: 2px dotted $gray_light;
+}
+
+
 
 
 /***************
