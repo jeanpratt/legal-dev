@@ -2988,6 +2988,23 @@ header {
   header div.container {
     text-align: center; }
 
+/***************
+#
+# Footer
+#
+****************/
+footer.footer {
+  background: #262626;
+  color: white;
+  padding: 0.5rem;
+  text-align: center; }
+  footer.footer span {
+    font-size: 80%;
+    transition: all 0.3s; }
+    footer.footer span:hover {
+      color: #cfcfcf;
+      cursor: pointer; }
+
 /********************************
 
 # Theme Buttons

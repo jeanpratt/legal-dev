@@ -146,3 +146,26 @@ header {
 	
 	div.container { text-align: center; }
 }
+
+/***************
+#
+# Footer
+#
+****************/
+
+footer.footer {
+	background: $gray_dark;
+	color: white;
+	padding: 0.5rem;
+	text-align: center;
+	
+	span {
+		font-size: 80%;
+		transition: all 0.3s;
+	
+		&:hover {
+			color: $gray_light;
+			cursor: pointer;
+		}
+	}
+}
