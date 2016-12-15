@@ -20,6 +20,8 @@ div.btn-group {
 	&:focus, &:active:focus { outline: 0; }
 }
 
+a.btn { &:hover, &:focus { color: white; } }
+
 .btn-red	{ background: $base_red; 
 	&:hover { @include lighter($base_red) } }
 
